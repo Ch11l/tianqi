@@ -5,7 +5,7 @@ server:
 spring:
   datasource:
     driver-class-name: org.sqlite.JDBC
-    url: jdbc:sqlite:D:/Code/Java/study/wx-pusher/src/main/resources/db/wx.db
+    url: jdbc:sqlite:D:\zhangchi\GitHub\GitHub\tianqi\src\main\resources\db\wx.db
     username: ''
     password: ''
   jpa:
